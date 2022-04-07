@@ -1,3 +1,4 @@
+[![rmiranda's 42 stats](https://badge42.vercel.app/api/v2/cl1oab9d0004009l1se6uf3v4/stats?cursusId=60&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 ### Hi there 👋
 
 <!--
