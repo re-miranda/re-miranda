@@ -1,5 +1,6 @@
-[![rmiranda's 42 stats](https://badge42.vercel.app/api/v2/cl1oab9d0004009l1se6uf3v4/stats?cursusId=60&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![rmiranda's 42 stats](https://badge42.vercel.app/api/v2/cl1oab9d0004009l1se6uf3v4/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 ### Hi there 👋
+I am currently a software engineering student at 42, as a result I have lots of practice writing C and C++, which I expect to end by the end of the year, and I am currently open to job opportunities.
 
 <!--
 **re-miranda/re-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
