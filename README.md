@@ -2,7 +2,7 @@
 ### Hi there 👋
 I am currently a software engineering student at 42, as a result I have lots of practice writing C and C++, which I expect to end by the end of the year, and I am currently open to job opportunities.
 
-In this repository you can find all the projects i have worked on so far! Here is a list of the scores I was able to achieve:
+In this repository you can find all the projects I have worked on so far! Here is a list of the scores I was able to achieve:
 
 [![rmiranda's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1oab9d0004009l1se6uf3v4/project/3113615)](https://github.com/JaeSeoKim/badge42)
 [![rmiranda's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1oab9d0004009l1se6uf3v4/project/3015836)](https://github.com/JaeSeoKim/badge42)
