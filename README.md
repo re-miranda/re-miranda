@@ -6,6 +6,8 @@
 - 🌱 Estudando **AI integrations (MCP)**
 
 - Projeto preferido em C : [MiniShell](https://github.com/lbiasuz/minishell)
+- 
+- Projeto preferido em C++ : [ft_webserver](https://github.com/re-miranda/myWebServer)
 
 - Projeto com Web frameworks (Django), JavaScript, HTML/CSS, enginx, docker-compose: [ft_transcendence](https://github.com/lbiasuz/ft_transcendence)
 
