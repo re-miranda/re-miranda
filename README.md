@@ -1,7 +1,7 @@
 <h1 align="center">👋 Renato Miranda</h1>
 <h3 align="center">Engenheiro de software criativo com expertise em Vídeo e Motion Graphics em eventos ao vivo.</h3>
 
-- 🔭 Trabalhando atualmente no [SoundSwipe](https://github.com/re-miranda/SoundSwipe)
+- 🔭 Trabalhando atualmente no [SoundSwipe](https://github.com/DJLIMA1/SoundSwipe)
 
 - 🌱 Estudando **AI integrations (MCP)**
 
